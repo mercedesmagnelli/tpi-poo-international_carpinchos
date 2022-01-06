@@ -1,11 +1,20 @@
-# Nuevo proyecto
-Inserte la descripción de su proyecto aquí
+# Trabajo Integrador para Paradigmas de Programación: Objetos
 
-Diagrama estático:
+| Apellido y Nombre | Usuario de Github
+|-------------------|------------------------------|
+| Gonzalez, Constanza  | [@ConstanzaGonzalez](https://github.com/ConstanzaGonzalez)
+| Flores, Juan  | [@jfloresmaquera](https://github.com/jfloresmaquera) 
+| Magnelli, Mercedes  | [@mercedesmagnelli](https://github.com/mercedesmagnelli) 
+| Otermin, Matias  | [@motermn](https://github.com/motermn)
+
+
+# Diagrama estático:
 
 ![diagrama](diagrama.png)
 
 link de lucidchard: https://lucid.app/invitations/accept/d8815923-051e-42ed-9a63-40dc61db71d7
+
+# Decisiones de Diseño 
 
 Polimorfismo: ¿Cuál es el mensaje polimórfico? ¿Qué objetos lo implementan? ¿Qué objeto se aprovecha de ello?
 
